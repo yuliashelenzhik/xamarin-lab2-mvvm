@@ -1,0 +1,15 @@
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/bin/Debug/netstandard2.0/EventMVVM.deps.json
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/bin/Debug/netstandard2.0/EventMVVM.dll
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/bin/Debug/netstandard2.0/ref/EventMVVM.dll
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/bin/Debug/netstandard2.0/EventMVVM.pdb
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/EventMVVM.csproj.AssemblyReference.cache
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/EventMVVM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/EventMVVM.AssemblyInfoInputs.cache
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/EventMVVM.AssemblyInfo.cs
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/EventMVVM.csproj.CoreCompileInputs.cache
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/EventMVVM.dll
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/refint/EventMVVM.dll
+/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/obj/Debug/netstandard2.0/EventMVVM.pdb

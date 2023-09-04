@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{CAA0A752-7E81-485A-8359-79BEFF7C6AF5}|Default">
+  <MonoDevelop.Ide.ItemProperties.EventMVVM.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EventMVVM.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EventMVVM FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

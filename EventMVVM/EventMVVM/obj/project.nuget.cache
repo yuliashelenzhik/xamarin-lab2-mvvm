@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "X3iTNAK57HIPdbD3beUuZVRVoNtyn+z5f8BCB1SI4y2f75Uscgg3kH1BxihgSdv4ysLoUD6lVpGEZyFECSbhjw==",
+  "success": true,
+  "projectFilePath": "/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM/EventMVVM.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuliayuste/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/yuliayuste/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/yuliayuste/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/yuliayuste/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/yuliayuste/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

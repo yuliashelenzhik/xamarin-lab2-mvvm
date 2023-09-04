@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdcFNdB55lhQZxDm5sITkDmIu0ynpGUHYpZZrJk3MU4PDdTRU2Sme8cHNFfH8GNLUQwbbuZmD5K1INN1Tv9cSg==",
+  "success": true,
+  "projectFilePath": "/Users/yuliayuste/Projects/EventMVVM/EventMVVM/EventMVVM.iOS/EventMVVM.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuliayuste/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/yuliayuste/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/yuliayuste/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
